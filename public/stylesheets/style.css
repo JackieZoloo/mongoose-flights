@@ -26,6 +26,7 @@ body > nav {
 }
 .welcome {
   margin: 100px;
+  text-align: center;
 }
 
 nav > img {
